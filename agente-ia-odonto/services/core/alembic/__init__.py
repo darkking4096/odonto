@@ -1,1 +1,0 @@
-# Módulo Alembic para migrações do banco de dados
